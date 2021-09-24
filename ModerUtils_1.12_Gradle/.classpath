@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/Minecraft_1.12.2/liteloader-1.12.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/Minecraft_1.12.2/macrosdev-0.15.4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/Minecraft_1.12.2/BiblioCraft1.12.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/Minecraft_1.12.2/realms-1.10.16.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/Minecraft_1.12.2/TabbyChat1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Falmer/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2768/stable/39/forgeSrc-1.12.2-14.23.5.2768.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MinecraftLibs"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
