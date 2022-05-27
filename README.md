@@ -1,2 +1,2 @@
 # SUtils
-SUtils module for SimpleMinecraft
+SUtils module for Macros KeyBind mod Minecraft version 1.7.10
